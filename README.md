@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align="right" src="https://user-images.githubusercontent.com/84006813/224267119-a4674dae-cb3f-4b9a-bc4f-c1c5df7abc18.png" width="300"/>
+<h1> Hi, I'm sky-j</h1>
+
+
 
 <!--
 **hopee0411/hopee0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
