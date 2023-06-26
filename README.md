@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 </div>
-<img align="right" src="https://user-images.githubusercontent.com/84006813/224267119-a4674dae-cb3f-4b9a-bc4f-c1c5df7abc18.png" width="300"/>
+<!-- <img align="right" src="https://user-images.githubusercontent.com/84006813/224267119-a4674dae-cb3f-4b9a-bc4f-c1c5df7abc18.png" width="300"/> -->
 <h1> Hi, I'm sky-j</h1>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hopee0411)](https://github.com/anuraghazra/github-readme-stats)
